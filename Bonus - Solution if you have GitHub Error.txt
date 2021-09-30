@@ -1,0 +1,2 @@
+When opening Unity, you have "No 'git' executable was found" error
+Just watch this video: https://www.youtube.com/watch?v=F-8A8mJwL_Y
